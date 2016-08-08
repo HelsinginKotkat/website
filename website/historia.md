@@ -1,0 +1,31 @@
+---
+layout: page
+title: Historia
+permalink: /historia/
+---
+### 1934
+Seurakunnat kokivat partiotyön mielekkääksi nuorisotyöksi, vaikeutena oli saada riittävästi johtajia sitoutumaan varsinaiseen toimintaan. Näin kävi Vanhan kirkonkin piirissä. Lopullisen sysäyksen antaneen perustamisaloitteen teki Boris Hormio, joka helmikuun 7. päivänä v. 1934 ilmoitti silloiselle nuorisopastorille Heimer Virkkuselle olevansa halukas ryhtymään piirin partiopoikatyön johtajaksi. Tällä ensimmäisellä kerralla neuvotteluissa edistyttiinkin suotuisasti – perustamispäätös oli tehty ja nimikin, Helsingin Kotkat, valittu. Kuukauden kuluttua toiminta käynnistyi ja voitiin pitää ensimmäinen vartiokokous. Kokouksia ja retkiä pidettiin säännöllisesti. Syksyllä 1934 toiminta laajeni ja lippukunta jaettiin vartioihin, jotka ryhtyivät suorittamaan partiotehtäviä tähtäimenään kolmannen luokan merkki. Ensimmäinen merkkienjakotilaisuus pidettiin marraskuun 10. päivänä. Ensimmäiset vartionjohtajat eivät olleet saaneet riittävästi koulutusta tehtäväänsä, mutta innokkuus ja velvollisuudentunto paikkasivat tilannetta. Heimer Virkkunen oli alusta pitäen jättäytynyt järjestöjohtajan paikalle ja varsinaisesta toiminnasta vastasivat Boris Hormio sekä syyskauden loppupuolesta myös Keijo Länsivaara ja Onni Nurmi, jotka molemmat olivat aikaisemmin perehtyneet partiotyöhön.
+ 
+### 1944
+Sodan kääntyessä loppua kohden partiotoiminta elpyi Helsingin Kotkissa. Johtajien lukumäärä kasvoi neljästä kahdeksaan ja lippukunnan koko vahvuuskin oli 90. Uudeksi lippukunnanjohtajaksi Heimer Virkkusen tilalle tuli Simo Palosuo ja sihteerinä jatkoi Yrjö Hongisto. Kymmenvuotisjuhla, joka piti pitää 6. helmikuuta, keskeytyi ilmapommitusten vuoksi. Juhlavuoden kunniaksi julkaistiin 32-sivuinen kuvitettu historiikki. Lippukunnan retkiä ei järjestetty, mutta muuten toiminta oli peruspartiomaista aktiivista toimintaa: vartioiden ja osastojen retkiä ja viikoittaisia kokouksia.
+ 
+### 1954
+Ensio Vaarna jatkoi lippukunnanjohtajana. Jäsenmäärä kohosi edellisen vuoden 68 jäsenestä 78 jäseneen. Suomen partiojärjestön Kilmulan leirille osallistui tusina hekolaisia ja lisäksi johtamisen tasoa kohotettiin pitämällä oma kirjallinen vj-kurssi ja piirin vj-kurssilla koulutettiin viittä johtajaa. Lippukunnan 20-vuotisjuhlaa vietettiin perinteisissä merkeissä helmikuussa 1954. Muutenkin toiminta tuntui olevan uomissaan ainakin viikoittaisten kokousmäärien valossa. Niitä pidettiinkin edellisenä kautena peräti 238 kpl.
+ 
+### 1964
+Lippukunnastamme tuli keski-ikäinen: 30-vuotta partiointia Hekossa! Juhlavuonna lippukunnassamme suoritettiin karhunhammasvaellus, joka toteutettiin ”Operaatio metsänrajan” yhteydessä Lapissa. Parhaita paloja siitä, kuten myös muista retkistä, saatiin seurata diaesityksen kautta. Toiminta oli, mikäli mahdollista, vieläkin aktiivisempaa kuin edellisenä vuonna, oli kesäleiri, Lapin vaellus ja lukuisia pienempiä retkiä sekä tietysti 30 -vuotisjuhla.
+ 
+### 1974
+Matti Vaahteranoksa jatkoi edelleen lpkj:na, jäsenmäärä 29. Lpk järjesti itselleen pt-skabat: osanottajia oli yhdeksän. Toiminta siirrettiin Mellunmäkeen, aluksi Mellunmäen nuorisotiloihin. Lisäksi käytössä oli lippukunnan retkeilyyn sopiva Willa.
+ 
+### 1984
+Kyöpelissä pidettiin talviretki Juha Tonterin johdolla seitsemän hengen voimin. Lippukunnanjohtajana jatkoi Olli Voutilainen ja sihteerinä Matti Vaahteranoksa. Letunpaisto talviriehassa oli 9mk tappiollinen ja myöskään 50-vuotisjuhlaa ei järjestetty. Jotain hyvääkin löytyi. Lapinvaellus Saariselällä 11 hengen voimin oli ikimuistoinen kokemus siellä olleille. Helena Voutilainen irtautui johtajaneuvoston toiminnasta opiskelupaikkakunnan kaukaisen sijainnin vuoksi. Merja Suomalainen ja Antti Paavilainen vastaisivat sudenpentutoiminnasta ja Mervi ”Topsi” Holopainen piti vartiot elossa. Majavat olivatkin aktiivisin osa lippukunnasta. Joulupukkipalvelu alkoi.
+ 
+### 1994
+Helsingin Kotkien 60-vuotisjuhlavuosi. Reppu-kesäleiri pidettiin Lopella, leirin johtajana toimi Kimmo Huurinainen ja vahvuutena parhaimmillaan viisikymmentä henkeä. Talviredu pidettiin Kiljavalla. Vartioiden ja laumojen lukumäärä kasvoi, jäsenmäärä n. 120-130. Toiminta oli kohtalaisen vireää ja lippukunta siirtyi SP:n uuteen ohjelmaan. Todettiin, että koulutusta on tehostettava.
+ 
+### 2004
+Helsingin Kotkat täyttivat 70-vuotta. Juhlat järjestettiin Mikaelin kirkolla ja siellä muisteltiin perustamishetkiä näytelmän muodossa, palkittiin ansioituneita ja otettiin vastaan onnitteluita. Helsingin Kotkat osallistuivat Finnjamboree Tarukselle, jossa makuualustan sijaan olisi kannattanu pakata mukaan uimapatja. Talviretki Alku keräsi mukavan määrän osallistujia. Lippukunnanjohtajana toimi Mari Voutilainen.
+ 
+### 2014
+80-vuotisjuhliin panostettiin isolla kädellä. Pentti Arajärvi piti juhlapuheen ja muutenkin vanhoja jäseniä saatiin paljon paikalle. Olihan usealla kulunut jopa 30-vuotta viimenäkemisestä. Juhlien jälkeen oli illallinen. Lippukunnanjohtajana toimi Hanna Tompuri ja vuoteen sisältyi paljon ohjelmaa: kohtaaminen, suurjuhla Kouvolassa, sekä kesäleiri Rölli Virvikin leirialueella ja talviretki Viikinki Kyöpelissä. Jäsenmäärä 89.
