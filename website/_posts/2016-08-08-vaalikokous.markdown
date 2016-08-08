@@ -29,14 +29,10 @@ Partiolippukunta Helsingin Kotkat ry:n sääntömääräinen vaalikokous järjes
 12. Kokouksen päättäminen
 
  
-Terveisin
-
-Onni Lampi
-
-Lippukunnanjohtaja
-
-040 702 3841
-
+Terveisin  
+Onni Lampi  
+Lippukunnanjohtaja  
+040 702 3841  
 partio at onnilampi.fi
 
 
