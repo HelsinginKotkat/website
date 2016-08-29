@@ -2,39 +2,34 @@
 layout: default
 ---
 
-<div class="home">
+{% for post in paginator.posts %}
+<div class="article">
+    <div class="well">
+        <h1><a href="{{ site.baseurl}}{{ post.url }}">{{ post.date | date: "%b %-d, %Y" }} - {{ post.title }}</a></h1>
+        {% if site.comments and post.comments %}
+            {% if site.disqus != '' %}
+            <p class="author"><a href="{{ site.baseurl }}{{ post.url }}/#disqus_thread" data-disqus-identifier="{{ post.url | slugify }}">Comments</a></p>
+            {% elsif site.isso != '' %}
+            <p class="author"><a href="{{ site.baseurl }}{{ post.url }}{{ site.isso_suffix }}#isso-thread">Comments</a></p>
+            {% endif %}
+        {% endif %}
+        <div class="content">
+            {{ post.content }}
+        </div>
+    </div>
+</div>
+{% endfor %}
 
-    <h1>Tervetuloa</h1>
-    Partiolippukunta Helsingin Kotkat ry on 7.2.1934 perustettu sekalippukunta. Aluksi lippukunta oli poikalippukunta ja toimi Vanhan kirkon piirissä, mutta vuonna 1974 lippukunta siirty Mellunmäkeen, jossa se nykyisinkin toimii. Jäseniä on tällä hetkellä yhteensä 89 ja lippukunnassa toimii nuoria kaikissa ikäkausissa.
-    <br>
-    <br>
-    Sivuiltamme löydät lisätietoja toiminnastamme, historiastamme, sekä siitä, miten pääset mukaan toimintaan!
-    <br>
-    <br>
-    <br>
-    <a href="https://picasaweb.google.com/116093995893173723177">Picasa</a> - Kuvia lippukunnan tapahtumista löytyy Picasasta
-    <br>
-    <a href="https://www.facebook.com/helsinginkotkat">Facebook</a> - Tiedoitamme tapahtumista Facebookissa ja sinne tulee myös kuvia tapahtumista
-    <br>
-    <a href="https://twitter.com/helsinginkotkat">Twitter</a> - #partioheko = HeKo @helsinginkotkat, #partioscout = suomen partiolaiset @partiolaiset, #päpa = pääkaupunkiseudun partiolaiset @partiokuuluu
-    <br>
-    <a href="https://instagram.com/partioheko">Instragram</a> - Muista käyttää #partioheko kun jaat kuvia lippukunnan tapahtumista! Täällä toimii myös #partioscout ja #päpa jos katsot että kuvat sopisivat partiotoimintaan yleisemminkin
-    <br>
-    <br>
-    <br>
-  <h1 class="page-heading">Viimeisimmät kuulumiset</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-
+<div class="pagination">
+  {% if paginator.previous_page %}
+      {% if paginator.previous_page == 1 %}
+        <a class="btn btn-default" href="{{ site.baseurl}}/index.html" class="previous">Newer</a>
+      {% else %}
+        <a class="btn btn-default" href="{{ site.baseurl}}/page{{ paginator.previous_page }}" class="previous">Newer</a>
+      {% endif %}
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a class="btn btn-default" href="{{ site.baseurl}}/page{{ paginator.next_page }}" class="next">Older</a>
+  {% endif %}
 </div>
