@@ -2,6 +2,7 @@
 layout: post
 title:  "Kutsu vaalikokoukseen 21.8.2016"
 date:   2016-08-08 13:10:43 +0300
+permalink: /2016/08/vaalikokous
 categories: jekyll update
 ---
 Partiolippukunta Helsingin Kotkat ry:n sääntömääräinen vaalikokous järjestetään 21.8.2016 klo 14 alkaen. Kokouksessa on äänioikeus kaikilla lippukunnan varsinaisilla jäsenillä. Muutkin ovat totta kai tervetulleita paikalle!
