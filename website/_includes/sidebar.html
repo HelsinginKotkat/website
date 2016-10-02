@@ -1,12 +1,38 @@
 <div class="sidebar well">
-{{ site.description }}
+
+<h3>Kaipaatko lisätietoa?</h3>
+
+<p>Uudet jäsenet:
+<br>
+Pyry Aaltonen<br>
+pyry.aaltonen at gmail.com
+</p>
+ 
+<p>
+Kyöpeli:<br>
+Aapo Launiainen<br>
+kyopeli.heko at gmail.com
+</p>
+ 
+<p>
+Muut kysymykset:<br>
+<br>
+Onni Lampi - LPKJ<br>
+partio at onnilampi.fi<br>
+<br>
+tai<br>
+<br>
+Hanna Tompuri - LKPJA<br>
+hannatompuri at gmail.com<br>
+puh. 0400517314
+</p>
 </div>
 
 <div class="sidebar well">
     <h1>Uusimmat kuulumiset</h1>
     <ul>
         {% for post in site.posts limit:5 %}
-          <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+          <li><a href="{{ site.baseurl}}{{ post.url }}.html">{{ post.title }}</a></li>
         {% endfor %}
     </ul>
 </div>
