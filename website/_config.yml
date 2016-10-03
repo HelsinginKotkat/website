@@ -15,13 +15,12 @@ github: 'helsinginkotkat/website'
 # The 'comments' setting enables comments. You'll need to select either
 # disqus or isso below to choose a comment system. Individual posts can
 # override 'comments' to disable on a post-by-post basis.
-comments: false 
 
 
-paginate: 3
 
 highlighter: rouge
 markdown: kramdown
-gems: ['jekyll-paginate']
+include: ['_pages']
+
 
 exclude: ['README.md', 'LICENSE']
