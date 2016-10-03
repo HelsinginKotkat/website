@@ -1,19 +1,19 @@
 <div class="sidebar well">
 
-<h3>Kaipaatko lisätietoa?</h3>
+<h1>Kaipaatko lisätietoa?</h1>
 
 <p>Uudet jäsenet:
 <br>
 Pyry Aaltonen<br>
 pyry.aaltonen at gmail.com
 </p>
- 
+
 <p>
 Kyöpeli:<br>
 Aapo Launiainen<br>
 kyopeli.heko at gmail.com
 </p>
- 
+
 <p>
 Muut kysymykset:<br>
 <br>
@@ -32,8 +32,20 @@ puh. 0400517314
     <h1>Uusimmat kuulumiset</h1>
     <ul>
         {% for post in site.posts limit:5 %}
-          <li><a href="{{ site.baseurl}}{{ post.url }}.html">{{ post.title }}</a></li>
+        <li><a href="{{ site.baseurl}}{{ post.url }}.html">{{ post.title }}</a></li>
         {% endfor %}
     </ul>
+</div>
+
+<div class="sidebar well">
+    <h1>Ryhmät</h1>
+
+    Ma: Poikatarpojat 18:30 - 20<br>
+    Ti: Poikasudenpennut 18 - 19<br>
+    Ti: Tyttötarpojat 19 - 20<br>
+    Ke: Tyttösudenpennut 18 - 19<br>
+    Ke: Tyttöseikkailijat 19 - 20<br>
+    To: Poikaseikkalijat 18 - 19<br>
+    To: Poikavaeltajat 19 - 20<br>
 </div>
 
