@@ -7,7 +7,7 @@ permalink: /uutiset/vaalikokous-2016/
 Partiolippukunta Helsingin Kotkat ry:n sääntömääräinen vaalikokous järjestetään 21.8.2016 klo 14 alkaen. Kokouksessa on äänioikeus kaikilla lippukunnan varsinaisilla jäsenillä. Muutkin ovat totta kai tervetulleita paikalle!
 
  
-# Kokouksen esityslista:
+**Kokouksen esityslista:**
 
 1. Kokouksen avaus
 2. Kokouksen järjestäytyminen
@@ -29,7 +29,7 @@ Partiolippukunta Helsingin Kotkat ry:n sääntömääräinen vaalikokous järjes
 12. Kokouksen päättäminen
 
  
-Terveisin  
+**Terveisin**  
 Onni Lampi  
 Lippukunnanjohtaja  
 040 702 3841  

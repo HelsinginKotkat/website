@@ -5,6 +5,8 @@ permalink: /uutiset/
 ---
 
 <div class="well">
+    <p><img src="{{site.url}}/images/nuotio_heko_kansi.jpg"
+    style="width:100%;"></p>
     {%for post in site.posts %}
     {% unless post.next %}
     <h1>{{ post.date | date: '%Y' }}</h1>
