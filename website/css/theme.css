@@ -1,6 +1,5 @@
 body {
     padding-top: 60px;
-    padding-bottom: 60px;
 }
 
 .copyright {
@@ -9,6 +8,11 @@ body {
 
 .footer {
     text-align: center;
+    background-color:#101010;
+    position: static;
+    width: 100%;
+    bottom: 0;
+    height: 50px;
 }
 
 .footer a {
