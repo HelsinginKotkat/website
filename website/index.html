@@ -4,7 +4,7 @@ layout: default
 
 <div class="well">
     <p><img src="{{site.url}}/images/nuotio_heko_kansi.jpg"
-    style="width:100%;"></p>
+            style="width:100%;"></p>
 
     <h1>Tervetuloa!</h1>
     <p>
@@ -23,6 +23,16 @@ layout: default
     <p><b><a href="https://twitter.com/helsinginkotkat">Twitter</a></b> - #partioheko = HeKo @helsinginkotkat, #partioscout = suomen partiolaiset @partiolaiset, #päpa = pääkaupunkiseudun partiolaiset @partiokuuluu</p>
 
     <p><b><a href="https://www.instagram.com/partioheko/">Instragram</a></b> - Muista käyttää #partioheko kun jaat kuvia lippukunnan tapahtumista! Täällä toimii myös #partioscout ja #päpa jos katsot että kuvat sopisivat partiotoimintaan yleisemminkin</p>
+</div>
+<div class="article">
+    <div class="well">
+        {% for post in site.posts limit:1 %}
+        <h1>{{ post.date | date: "%b %-d, %Y" }} - {{ post.title }}</h1>
+        <div class="post-content">
+            {{ post.content }}
+        </div>
+        {% endfor %}
+    </div>
 </div>
 <div class="article">
     <div class="well">
