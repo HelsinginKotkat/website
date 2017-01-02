@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Lippukunnan kolo on muuttanut!"
+date:   2017-01-02 13:10:43 +0300
+permalink: /uutiset/uusi-kolo-2017/ 
+---
+Hyvää uutta vuotta kaikille!
+
+Kokoukset alkavat 9.1. viikolla syksyn aikataulujen mukaan.\\
+
+Mellunmäen ostari puretaan keväällä ja tästä johtuen Helsingin Kotkien kolo on muuttanut osoitteeseen Saariselänkuja 1.
+Tästä löydät kuvat uudesta kolosta, sekä pienen kartan.
+Kartassa oranssi reitti kuvaa kävelyreittiä vanhalta kololta uudelle ja lila kuvastaa ajoreittiä.
+Kolon edessä on parkkipaikkoja. Tervetuloa!
+
+![Kartta kololle][kartta]\\
+![Kolo ulkoa][ulkoa]\\
+![Kolo sisältä][inside]
+
+[kartta]: {{site.url}}/images/kolo_kartta.jpg
+[ulkoa]: {{site.url}}/images/kolo_talo.jpg
+[inside]: {{site.url}}/images/kolo_inside.jpg
