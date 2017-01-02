@@ -13,10 +13,7 @@ Tästä löydät kuvat uudesta kolosta, sekä pienen kartan.
 Kartassa oranssi reitti kuvaa kävelyreittiä vanhalta kololta uudelle ja lila kuvastaa ajoreittiä.
 Kolon edessä on parkkipaikkoja. Tervetuloa!
 
-![Kartta kololle][kartta]\\
-![Kolo ulkoa][ulkoa]\\
-![Kolo sisältä][inside]
+<img src="{{site.url}}/images/kolo_kartta.jpg" alt="Kartta kololle" style="width: 600px;padding: 10px"><br>
+<img src="{{site.url}}/images/kolo_talo.jpg" alt="Kolo ulkoa" style="width: 300px;padding: 10px">
+<img src="{{site.url}}/images/kolo_inside.jpg" alt="Kolo sisältä" style="width: 300px;padding: 10px"><br>
 
-[kartta]: {{site.url}}/images/kolo_kartta.jpg
-[ulkoa]: {{site.url}}/images/kolo_talo.jpg
-[inside]: {{site.url}}/images/kolo_inside.jpg

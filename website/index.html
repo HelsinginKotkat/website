@@ -27,7 +27,8 @@ layout: default
 <div class="article">
     <div class="well">
         {% for post in site.posts limit:1 %}
-        <h1>{{ post.date | date: "%b %-d, %Y" }} - {{ post.title }}</h1>
+        <h1>{{ post.title }}</h1>
+        <b>Julkaistu {{ post.date | date: "%d.%m.%Y" }}</b>
         <div class="post-content">
             {{ post.content }}
         </div>
